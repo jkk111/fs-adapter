@@ -1,0 +1,4702 @@
+[1G[0JUsername: [11Giot-demo
+Password: 
+[1G[0JBootstrap: (localhost) [24Ga
+key <Buffer ab fb df e1 f4 de 7c d0 da cb 24 e6 f5 57 1c f0 02 94 e2 5c ee 0e 06 c6 fe 75 7e 0e 59 21 f6 91>
+Crypto {
+  key: <Buffer ab fb df e1 f4 de 7c d0 da cb 24 e6 f5 57 1c f0 02 94 e2 5c ee 0e 06 c6 fe 75 7e 0e 59 21 f6 91>,
+  files: {},
+  listeners: [] }
+[DEBUG] Starting With User: "iot-demo" and Password: a
+[getattr] [ 'Keyring', [Function] ]
+[getattr:CB] [ -2 ]
+-2 undefined
+[create] [ 'Keyring', 511, [Function] ]
+[create:CB] [ 0 ]
+[write] [ 'Keyring',
+  0,
+  <Buffer 46 53 4f f7 ce 82 c7 20 c4 90 85 3d e2 97 69 99 31 ee>,
+  18,
+  0,
+  [Function] ]
+[write:CB] [ 18 ]
+[init] [ [Function] ]
+Initializing Alpha File System Driver
+[init:CB] [ 0 ]
+Here
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65537 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65537, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65538 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65538, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65539 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65539, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65540 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65540, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65541 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65541, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65542 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65542, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65543 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65543, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65544 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65544, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65545 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65546 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65547 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65548 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65549 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65550 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65551 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65552 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65553 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65554 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65555 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65556 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65557 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65558 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65559 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65560 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65561 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65562 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65563 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65564 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65565 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65566 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65567 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65568 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65569 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65570 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65571 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65572 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65573 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65574 ]
+[releasedir] [ '/', 65545, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65550, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65551, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65552, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65546, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65553, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65554, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65555, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65556, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65557, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65575 ]
+[releasedir] [ '/', 65558, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65559, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65560, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65547, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65561, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65562, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65563, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65564, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65548, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65565, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65566, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65567, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65549, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65568, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65569, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65570, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65571, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65572, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65573, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65576 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65574, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65577 ]
+[releasedir] [ '/', 65575, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65578 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65576, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65577, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65578, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65579 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65580 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65581 ]
+[releasedir] [ '/', 65579, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65582 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65580, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65583 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65582, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65581, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65583, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65584 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65584, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65585 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65585, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65586 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65586, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65587 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65587, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65588 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65588, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65589 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65590 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65591 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65592 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65593 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65589, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65590, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65591, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65592, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65593, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65594 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65594, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65595 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65595, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65596 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65596, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65597 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65597, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65598 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65599 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65598, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65600 ]
+[releasedir] [ '/', 65599, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65601 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65600, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65601, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65602 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65602, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65603 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65603, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65604 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65605 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65604, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65606 ]
+[releasedir] [ '/', 65605, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65607 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65606, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65607, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65608 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65609 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65608, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65610 ]
+[releasedir] [ '/', 65609, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65611 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65610, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65612 ]
+[releasedir] [ '/', 65611, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65613 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[readdir] [ '/', [Function] ]
+Path => /
+Path /  [ 'Keyring',
+  '2336056-720p.mp4',
+  'The.Office.S08E04.Garden.Party.720p.BrRip.x264-[MULVAcoded].mkv',
+  'The.Office.S08E01.The.List.720p.BrRip.x264-[MULVAcoded].mkv',
+  'The.Office.S08E02.The.Incentive.720p.BrRip.x264-[MULVAcoded].mkv',
+  'The.Office.S08E03.Lotto.720p.BrRip.x264-[MULVAcoded].mkv',
+  'Init',
+  'Test',
+  'Keyring' ]
+[readdir:CB] [ 0,
+  [ 'Keyring',
+    '2336056-720p.mp4',
+    'The.Office.S08E04.Garden.Party.720p.BrRip.x264-[MULVAcoded].mkv',
+    'The.Office.S08E01.The.List.720p.BrRip.x264-[MULVAcoded].mkv',
+    'The.Office.S08E02.The.Incentive.720p.BrRip.x264-[MULVAcoded].mkv',
+    'The.Office.S08E03.Lotto.720p.BrRip.x264-[MULVAcoded].mkv',
+    'Init',
+    'Test',
+    'Keyring' ] ]
+[getattr] [ '/Keyring', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/2336056-720p.mp4', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/The.Office.S08E04.Garden.Party.720p.BrRip.x264-[MULVAcoded].mkv',
+  [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/The.Office.S08E01.The.List.720p.BrRip.x264-[MULVAcoded].mkv',
+  [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/The.Office.S08E02.The.Incentive.720p.BrRip.x264-[MULVAcoded].mkv',
+  [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/The.Office.S08E03.Lotto.720p.BrRip.x264-[MULVAcoded].mkv',
+  [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/Init', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/Test', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/Keyring', [Function] ]
+[getattr:CB] [ -2 ]
+[releasedir] [ '/', 65612, [Function] ]
+[releasedir:CB] [ 0 ]
+[releasedir] [ '/', 65613, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65614 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65614, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65615 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65615, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65616 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65616, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65617 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65617, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65618 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65618, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65619 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65619, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65620 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65620, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65621 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[readdir] [ '/', [Function] ]
+Path => /
+Path /  [ 'Keyring',
+  '2336056-720p.mp4',
+  'The.Office.S08E04.Garden.Party.720p.BrRip.x264-[MULVAcoded].mkv',
+  'The.Office.S08E01.The.List.720p.BrRip.x264-[MULVAcoded].mkv',
+  'The.Office.S08E02.The.Incentive.720p.BrRip.x264-[MULVAcoded].mkv',
+  'The.Office.S08E03.Lotto.720p.BrRip.x264-[MULVAcoded].mkv',
+  'Init',
+  'Test',
+  'Keyring' ]
+[readdir:CB] [ 0,
+  [ 'Keyring',
+    '2336056-720p.mp4',
+    'The.Office.S08E04.Garden.Party.720p.BrRip.x264-[MULVAcoded].mkv',
+    'The.Office.S08E01.The.List.720p.BrRip.x264-[MULVAcoded].mkv',
+    'The.Office.S08E02.The.Incentive.720p.BrRip.x264-[MULVAcoded].mkv',
+    'The.Office.S08E03.Lotto.720p.BrRip.x264-[MULVAcoded].mkv',
+    'Init',
+    'Test',
+    'Keyring' ] ]
+[getattr] [ '/Keyring', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/2336056-720p.mp4', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/The.Office.S08E04.Garden.Party.720p.BrRip.x264-[MULVAcoded].mkv',
+  [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/The.Office.S08E01.The.List.720p.BrRip.x264-[MULVAcoded].mkv',
+  [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/The.Office.S08E02.The.Incentive.720p.BrRip.x264-[MULVAcoded].mkv',
+  [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/The.Office.S08E03.Lotto.720p.BrRip.x264-[MULVAcoded].mkv',
+  [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/Init', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/Test', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/Keyring', [Function] ]
+[getattr:CB] [ -2 ]
+[releasedir] [ '/', 65621, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/1520702399018.webm', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/1520702399018.webm', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/1520702399018.webm', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/1520702399018.webm', [Function] ]
+[getattr:CB] [ -2 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65622 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65622, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65623 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[statfs] [ '/', [Function] ]
+[statfs:CB] [ 0,
+  { bsize: 1000000,
+    frsize: 1000000,
+    blocks: 1000000,
+    bfree: 1000000,
+    bavail: 1000000,
+    files: 1000000,
+    ffree: 1000000,
+    favail: 1000000,
+    fsid: 1000000,
+    flag: 1000000,
+    namemax: 1000000 } ]
+[releasedir] [ '/', 65623, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65624 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[statfs] [ '/', [Function] ]
+[statfs:CB] [ 0,
+  { bsize: 1000000,
+    frsize: 1000000,
+    blocks: 1000000,
+    bfree: 1000000,
+    bavail: 1000000,
+    files: 1000000,
+    ffree: 1000000,
+    favail: 1000000,
+    fsid: 1000000,
+    flag: 1000000,
+    namemax: 1000000 } ]
+[releasedir] [ '/', 65624, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65625 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65625, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65626 ]
+[getattr] [ '/desktop.ini', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65627 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65626, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65628 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[readdir] [ '/', [Function] ]
+Path => /
+Path /  [ 'Keyring',
+  '2336056-720p.mp4',
+  'The.Office.S08E04.Garden.Party.720p.BrRip.x264-[MULVAcoded].mkv',
+  'The.Office.S08E01.The.List.720p.BrRip.x264-[MULVAcoded].mkv',
+  'The.Office.S08E02.The.Incentive.720p.BrRip.x264-[MULVAcoded].mkv',
+  'The.Office.S08E03.Lotto.720p.BrRip.x264-[MULVAcoded].mkv',
+  'Init',
+  'Test',
+  'Keyring' ]
+[readdir:CB] [ 0,
+  [ 'Keyring',
+    '2336056-720p.mp4',
+    'The.Office.S08E04.Garden.Party.720p.BrRip.x264-[MULVAcoded].mkv',
+    'The.Office.S08E01.The.List.720p.BrRip.x264-[MULVAcoded].mkv',
+    'The.Office.S08E02.The.Incentive.720p.BrRip.x264-[MULVAcoded].mkv',
+    'The.Office.S08E03.Lotto.720p.BrRip.x264-[MULVAcoded].mkv',
+    'Init',
+    'Test',
+    'Keyring' ] ]
+[getattr] [ '/Keyring', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/2336056-720p.mp4', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/The.Office.S08E04.Garden.Party.720p.BrRip.x264-[MULVAcoded].mkv',
+  [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/The.Office.S08E01.The.List.720p.BrRip.x264-[MULVAcoded].mkv',
+  [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/The.Office.S08E02.The.Incentive.720p.BrRip.x264-[MULVAcoded].mkv',
+  [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/The.Office.S08E03.Lotto.720p.BrRip.x264-[MULVAcoded].mkv',
+  [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/Init', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/Test', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/Keyring', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65627, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65629 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65628, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[readdir] [ '/', [Function] ]
+Path => /
+Path /  [ 'Keyring',
+  '2336056-720p.mp4',
+  'The.Office.S08E04.Garden.Party.720p.BrRip.x264-[MULVAcoded].mkv',
+  'The.Office.S08E01.The.List.720p.BrRip.x264-[MULVAcoded].mkv',
+  'The.Office.S08E02.The.Incentive.720p.BrRip.x264-[MULVAcoded].mkv',
+  'The.Office.S08E03.Lotto.720p.BrRip.x264-[MULVAcoded].mkv',
+  'Init',
+  'Test',
+  'Keyring' ]
+[readdir:CB] [ 0,
+  [ 'Keyring',
+    '2336056-720p.mp4',
+    'The.Office.S08E04.Garden.Party.720p.BrRip.x264-[MULVAcoded].mkv',
+    'The.Office.S08E01.The.List.720p.BrRip.x264-[MULVAcoded].mkv',
+    'The.Office.S08E02.The.Incentive.720p.BrRip.x264-[MULVAcoded].mkv',
+    'The.Office.S08E03.Lotto.720p.BrRip.x264-[MULVAcoded].mkv',
+    'Init',
+    'Test',
+    'Keyring' ] ]
+[getattr] [ '/Keyring', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/2336056-720p.mp4', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/The.Office.S08E04.Garden.Party.720p.BrRip.x264-[MULVAcoded].mkv',
+  [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/The.Office.S08E01.The.List.720p.BrRip.x264-[MULVAcoded].mkv',
+  [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/The.Office.S08E02.The.Incentive.720p.BrRip.x264-[MULVAcoded].mkv',
+  [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/The.Office.S08E03.Lotto.720p.BrRip.x264-[MULVAcoded].mkv',
+  [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/Init', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/Test', [Function] ]
+[getattr:CB] [ -2 ]
+[getattr] [ '/Keyring', [Function] ]
+[getattr:CB] [ -2 ]
+[releasedir] [ '/', 65629, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65630 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65630, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65631 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65631, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65632 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65632, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65633 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65633, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65634 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65634, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65635 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65635, [Function] ]
+[releasedir:CB] [ 0 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65636 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65636, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65637 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65637, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65638 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65638, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65639 ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65640 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65639, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[opendir] [ '/', 0, [Function] ]
+[opendir:CB] [ 0, 65641 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65640, [Function] ]
+[releasedir:CB] [ 0 ]
+[getattr] [ '/', [Function] ]
+[getattr:CB] [ 0,
+  { dev: 428019991,
+    fsid: 428019991,
+    _dev: 1000,
+    mtime: 2018-04-04T13:34:37.982Z,
+    atime: 2018-04-04T13:34:37.982Z,
+    ctime: 2018-04-04T13:34:37.982Z,
+    st_ino: 8,
+    ino: '1000000032',
+    _ino: 8,
+    nlink: 1,
+    size: 0,
+    mode: 16822,
+    uid: 0,
+    gid: 0 } ]
+[releasedir] [ '/', 65641, [Function] ]
+[releasedir:CB] [ 0 ]
+filesystem at M:\ not unmounted Error: Error
