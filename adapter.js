@@ -11,7 +11,7 @@ if(!process.getgid) {
 }
 
 let init = require('./handlers/init');
-let access = require('./handlers/access');
+let access = null;
 let statfs = require('./handlers/statfs');
 let getattr = require('./handlers/getattr');
 let fgetattr = require('./handlers/fgetattr');

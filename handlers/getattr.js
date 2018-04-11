@@ -1,6 +1,35 @@
 require('colors')
 let fuse = require('fuse-bindings')
-let request = require('request-promise');
+let _request = require('request-promise').defaults({ timeout: 5000 })
+
+let request = (...args) => {
+  if(typeof args[0] === 'object') {
+    let req = args[0];
+    req.retries = req.retries || 5;
+  } else {
+    args[0] = {
+      url: args[0],
+      retries: 5
+    }
+  }
+
+
+  return new Promise(async(resolve) => {
+    try {
+      resolve(await _request(...args))
+    } catch(e) {
+      let { error } = e;
+      console.log(JSON.stringify(e));
+      args[0].retries--;
+      if(error.code === 'ETIMEDOUT' && args[0].retries > 0) {
+        resolve(await request(...args))
+      } else {
+        console.log(e.code, e.name);
+        throw e;
+      }
+    }
+  })
+}
 
 module.exports = (conf) => async(path, cb) => {
   let url = `${conf.base_url}stat`;
@@ -8,7 +37,7 @@ module.exports = (conf) => async(path, cb) => {
     name: path,
     user: conf.user
   }
-
+  console.log(url);
   let stat = await request({
     url,
     method: 'POST',
@@ -16,6 +45,8 @@ module.exports = (conf) => async(path, cb) => {
     body,
     json: true
   })
+
+  console.log('Stat Response')
 
   if(stat.error) {
     console.error("ENOENT".red, path.blue)
