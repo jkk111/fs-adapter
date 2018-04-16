@@ -4,6 +4,7 @@ process.on('unhandledRejection', (reason, p) => {
 });
 
 
+
 global.Promise = require('bluebird')
 let Promise = require('bluebird')
 Promise.config({
@@ -22,9 +23,16 @@ let Input = require('./Input')
 var fuse = require('fuse-bindings')
 var mountPath = process.platform !== 'win32' ? './mnt' : 'M:\\';
 let conf = require('./config.json');
-let fs = require('fs')
-let Database = require('./database');
-let database = new Database();
+let fs = require('fs');
+
+
+
+
+
+let Cache = require('./Cache');
+let cache = new Cache();
+
+global.cache = cache;
 
 let promisify = (...args) => {
   return new Promise(resolve => {
@@ -41,17 +49,17 @@ let Adapter = require('./adapter')
 let keyring = null;
 let mount = async() => {
   let input = new Input();
-  let user = await input.Text('Username: ');
-  let password = await input.Password();
-  let bootstrap = await input.Text('Bootstrap: (localhost) ');
-
-  keyring = new Keyring(password);
+  let user = conf.user || await input.Text('Username: ');
+  // let password = await input.Password();
+  // let bootstrap = await input.Text('Bootstrap: (localhost) ');
+  let password = ''
+  keyring = new Keyring('');
 
   conf.user = user;
 
   console.log(keyring);
   console.log(`[DEBUG] Starting With User: "${user}" and Password: ${password}`)
-  let adapter = Adapter(conf, database, keyring);
+  let adapter = Adapter(conf, cache, keyring);
 
 
   let keyring_stat = await promisify(adapter.getattr, "Keyring")
@@ -66,9 +74,12 @@ let mount = async() => {
   } else {
     let buf = Buffer.alloc(data.size)
     let read = await promisify(adapter.read, 'Keyring', 0, buf, data.size, 0);
+
+    console.log(read);
+
     // console.log(read, buf)
     // process.exit();
-    keyring.import(buf);
+    // keyring.import(buf);
   }
 
   keyring.changed(async(data) => {

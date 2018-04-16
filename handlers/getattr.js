@@ -2,6 +2,8 @@ require('colors')
 let fuse = require('fuse-bindings')
 let _request = require('request-promise').defaults({ timeout: 5000 })
 
+let cache = {};
+
 let request = (...args) => {
   if(typeof args[0] === 'object') {
     let req = args[0];
@@ -32,6 +34,14 @@ let request = (...args) => {
 }
 
 module.exports = (conf) => async(path, cb) => {
+  path = path.replace(/\*/, '');
+
+  if(cache[path]) {
+    return cb(0, cache[path])
+  }
+
+
+
   let url = `${conf.base_url}stat`;
   let body = {
     name: path,
@@ -52,6 +62,8 @@ module.exports = (conf) => async(path, cb) => {
     console.error("ENOENT".red, path.blue)
     return cb(fuse.ENOENT)
   }
+
+  cache[path] = stat;
 
   // console.log(stat)
 

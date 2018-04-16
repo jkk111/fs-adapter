@@ -1,16 +1,21 @@
-let _request = require('request-promise').defaults({ timeout: 5000 })
+// let _request = require('request-promise').defaults({ timeout: 5000 })
 
-let request = (...args) => {
-  return new Promise(async(resolve) => {
-    try {
-      resolve(await _request(...args))
-    } catch(e) {
-      if(e.code === 'ETIMEDOUT') {
-        resolve(await request(...args))
-      }
-    }
-  })
-}
+// let request = (...args) => {
+//   return new Promise(async(resolve) => {
+//     try {
+//       resolve(await _request(...args))
+//     } catch(e) {
+//       let { error } = e;
+//       if(error.code === 'ETIMEDOUT') {
+//         resolve(await request(...args))
+//       } else {
+//         throw e;
+//       }
+//     }
+//   })
+// }
+
+let request = require('../requester');
 
 let fuse = require('fuse-bindings')
 
